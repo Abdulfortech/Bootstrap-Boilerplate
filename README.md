@@ -1,2 +1,2 @@
-# Bootstrap-Boilerplate
-This is a Bootstrap Boilerplate that contain the most important components that can be reused for any project.
+# PHP-FullStack-Boilerplate
+This is a PHP FullStack code that can be used to create dynamic web pages easily using PHP and MySQL.
